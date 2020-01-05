@@ -10,7 +10,7 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	}
 	public void m1(){
-		
+	int a=10;	
 	}
 
 }
